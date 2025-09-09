@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="phone">Телефон</string>
+    <string name="address">Адрес</string>
+    <string name="email">E-mail</string>
+</resources>
